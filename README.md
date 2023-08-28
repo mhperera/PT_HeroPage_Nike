@@ -1,3 +1,11 @@
+<div id="intro" align="center">
+  
+# Nike Brand Page UI 
+
+![Screenshot of the UI](./SS.JPG)
+
+</div>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
